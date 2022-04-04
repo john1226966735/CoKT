@@ -20,7 +20,6 @@ If you find this code useful in your research then please consider citing the fo
 ``` 
 
 
-## Running CoKT.
-Before run the code (main.py), you need to create a folder called "Result". 
+Note: Before run the code (main.py), you need to create a folder called "Result". 
 
 If you need more information about our experiments, you can contact us via email: hi.zhou@mails.ccnu.edu.cn
