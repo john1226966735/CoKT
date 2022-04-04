@@ -7,7 +7,7 @@ We reused https://github.com/aditya-grover/node2vec for the implementaion of Nod
 Paper download link: https://link.springer.com/chapter/10.1007/978-3-030-82147-0_27
 
 
-If you find this code useful in your research then please cite  
+If you find this code useful in your research then please consider citing the following paper:
 ```bash
 @inproceedings{sun2021collaborative,
   title={Collaborative Embedding for Knowledge Tracing},
